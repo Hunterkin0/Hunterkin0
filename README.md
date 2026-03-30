@@ -2,15 +2,12 @@
 📫: BA in Information & Technology
 🔭: Currently looking for work
 💬: Learning C++ and Python for fun
-
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png
-
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png
-
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png
-
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png
-
+<p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" width="50" height="50" alt="C++" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="50" height="50" alt="Python" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" width="50" height="50" alt="Windows" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" width="50" height="50" alt="macOS" />
+</p>
 <p align="left">
   <a href="https://github.com/Hunterkin0">
     <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" />
