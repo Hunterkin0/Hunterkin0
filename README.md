@@ -1,4 +1,3 @@
-<img src="https://static.vecteezy.com/system/resources/thumbnails/028/560/461/small/a-brown-wood-texture-serves-as-an-abstract-background-photo.jpg" width="100%" alt="Banner" />
 # ***Hunterkin0***
 📫: BA in Information & Technology<br>
 🔭: Currently looking for work<br>
