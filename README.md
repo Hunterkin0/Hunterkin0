@@ -3,16 +3,14 @@
 🔭: Currently looking for work
 💬: Learning C++ and Python for fun
 
-<p align="left">
+<!-- Socials -->
   <a href="https://github.com/Hunterkin0">
-    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
   </a>
-  &nbsp;
-<a href="https://linkedin.com/in/kyle-kintzler">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn" />
-</a>
-  &nbsp;
+  <a href="https://linkedin.com/in/kyle-kintzler">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn" />
+  </a>
   <a href="https://discord.com/users/Exodus">
-    <img src="https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=discord" width="50" height="50" alt="Discord" />
   </a>
 </p>
