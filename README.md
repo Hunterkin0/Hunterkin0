@@ -1,7 +1,7 @@
 # ***Hunterkin0***
-📫: BA in Information & Technology
-🔭: Currently looking for work
-💬: Learning C++ and Python for fun
+-📫: BA in Information & Technology
+-🔭: Currently looking for work
+-💬: Learning C++ and Python for fun
 
 <!-- Socials -->
   <a href="https://github.com/Hunterkin0">
